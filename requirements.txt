@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+py-cord
+requests
+aiohttp
+audioop-lts
+setuptools>=68.0.0
